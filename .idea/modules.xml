@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LearnComponents.iml" filepath="$PROJECT_DIR$/.idea/LearnComponents.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-mybatis/spring-mybatis.iml" filepath="$PROJECT_DIR$/spring-mybatis/spring-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-mybatisPlus-Mongo/spring-mybatisPlus-Mongo.iml" filepath="$PROJECT_DIR$/spring-mybatisPlus-Mongo/spring-mybatisPlus-Mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mysql-mongo/spring-mysql-mongo.iml" filepath="$PROJECT_DIR$/spring-mysql-mongo/spring-mysql-mongo.iml" />
     </modules>
   </component>
 </project>

@@ -7,20 +7,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-mybatisPlus-Mongo" />
+        <module name="spring-mysql-mongo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring-Mybatis" target="1.5" />
-      <module name="spring-mybatis" target="1.8" />
       <module name="spring-mybatisPlus-Mongo" target="1.8" />
+      <module name="spring-mysql-mongo" target="1.8" />
       <module name="sprringboot-mybatis" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-Mybatis" options="-parameters" />
-      <module name="spring-mybatis" options="-parameters" />
       <module name="spring-mybatisPlus-Mongo" options="-parameters" />
+      <module name="spring-mysql-mongo" options="-parameters" />
     </option>
   </component>
 </project>
